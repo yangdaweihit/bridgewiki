@@ -5,11 +5,14 @@
 
 ## 历史
 
-The NTSB originated in the Air Commerce Act of 1926, in which the
-U.S. Congress charged the U.S. Department of Commerce with investigating
-the causes of aircraft accidents. Later, that responsibility was given
-to the Civil Aeronautics Board's Bureau of Aviation Safety, when it was
-created in 1940.
+NSTB始于1926年商业航空法案，美国国会指示美国商务部调查航空事故的原因。
+后来，这项责任赋予给民用航天委员会的航空安全局，该局于1940年成立。
+
+1967年，国会将所有交通机构整合为一个新的美国交通部，并将NSTB建立成为一
+个独立的机构，该机构隶属于交通部。建立NSTB是因为国会预见到一个单一的组
+织，具有清晰定义的任务，将会更加提升效率，较之以往的单独的模式机构，分
+别工作。自1967年，NSTB已在航空、公路、海域、管道和铁路，以及和交通有关
+的高风险材料中做过调查。
 
 In 1967, Congress consolidated all transportation agencies into a new
 U.S. Department of Transportation (DOT) and established the NTSB as an
